@@ -1,7 +1,7 @@
 # reading-notes
 
-| class                      |
-| -------------------------- |
-| [class1a](./class1a.md)    |
-| [class1b](./class1b.md)    |
+| class        | Link                     |
+| ------------ | ------------------------ |
+| class01a     | [class01a](./class1a.md) |
+| class01b     | [class01b](./class1b.md) |
 
