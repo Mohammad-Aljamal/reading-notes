@@ -42,7 +42,6 @@ Tests are crucial because they give us confidence in the reliability of our soft
 2- Faster Development Cycles: TDD promotes an iterative development process. Developers write a failing test, then implement the code to make the test pass. This iterative cycle helps in incremental development, where functionality is added or modified in small increments. By focusing on small units of code and constantly verifying their correctness through tests, developers can catch issues early and address them swiftly, leading to faster development cycles.
 
 3- Enhanced Code Maintainability: TDD encourages developers to write modular and loosely coupled code. Writing tests forces developers to think about code design and separation of concerns. The tests act as a safety net during refactoring, allowing developers to confidently modify or optimize code without fear of introducing bugs. This results in more maintainable code that is easier to understand, modify, and extend over time.
------------
 
 #### 3.Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
 * Two individual pitfalls commonly encountered while practicing TDD are:
