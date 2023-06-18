@@ -41,8 +41,6 @@ Authentication is the process of verifying the identity of a person attempting t
 
 
 #### 2. How should your error messaging respond (both HTTP and HTML)? Why?
-Base64 encoding of ID and password joined by a single colon :.
 
 
 #### 3. Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.
-they are encoded using Base64 encoding.
