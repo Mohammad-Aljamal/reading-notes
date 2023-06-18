@@ -8,4 +8,4 @@
 | Express REST API(classes,routing,middleware) | [Express REST API](./Class02.md)                                      |
 | class05                                      | [Linked Lists](./Class5-Linked%20Lists.md)                            |
 | class03                                      | [Data Modeling](./Class03.md)                                         |
-
+| class06                                      | [Authentication](./Class06-Authentication.md)                         |
