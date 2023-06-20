@@ -9,3 +9,4 @@
 | class05                                      | [Linked Lists](./Class5-Linked%20Lists.md)                            |
 | class03                                      | [Data Modeling](./Class03.md)                                         |
 | class06                                      | [Authentication](./Class06-Authentication.md)                         |
+| class07                                      | [JWT - Bearer Authorization](./Class07-JWT-Bearer-Authorization.md)   |
