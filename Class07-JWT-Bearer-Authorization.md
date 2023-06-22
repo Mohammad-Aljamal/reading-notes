@@ -1,4 +1,4 @@
-# Class 06
+# Class 07
 
 ## JWT - Bearer Authorization
 
