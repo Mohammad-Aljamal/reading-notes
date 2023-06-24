@@ -42,10 +42,13 @@ If we have a company with different departments and each person requires an acce
 ### [RBAC tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)
 
 #### 1. What Are access rights Associated with? The User? or The Role? Explain.
+The role of the user which was given to him based on his function in the organization, the role which determines what type of user this is.
 
 #### 2. Access Rights, or Authorization, is activated after a user successfully does what?
+the users must be activated to one or more roles in order to get access rights.
 
 #### 3. Explain how RBAC might benefit a business.
+It would benefit a business by organizing the users roles for them and giving them the least previlage to access resources in the organization which will basically implement a hierarchy based on access right to serve the organizaation.
 
 
 
