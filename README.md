@@ -11,3 +11,4 @@
 | class06                                      | [Authentication](./Class06-Authentication.md)                         |
 | class07                                      | [JWT - Bearer Authorization](./Class07-JWT-Bearer-Authorization.md)   |
 | class08                                      | [RBAC (Role-Based Access Control)](./Class08-RBAC.md)                 |
+| class09                                      | [2 possible project ideas](./Class09.md)                              |
