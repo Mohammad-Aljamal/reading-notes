@@ -7,24 +7,25 @@
 
 ### STACK
 
-The primary characteristic of the stack is LIFO (Last-In-First-Out) and FILO (First-In-Last-Out).
+. The primary characteristic of the stack is LIFO (Last-In-First-Out) and FILO (First-In-Last-Out).
 
-The Stack Data-Structure can be represented as a stach of pringles chips.
+. The Stack Data-Structure can be represented as a stach of pringles chips.
 
-It contain a multi basic operations:
+. It contain a multi basic operations:
 
-     Push: to add an element to the top of the stack.
+    1- Push: to add an element to the top of the stack.
 
-     Pop: to remove an element from the top of the stack.
+    2- Pop: to remove an element from the top of the stack.
            note: (in the pop we should check if the Stack is empty to avoid any error)
 
-     isEmpty: to check if the Stack is empty or not.
+    3- isEmpty: to check if the Stack is empty or not.
 
-     peek: to get the value of the top node (last node in the stack).
+    4- peek: to get the value of the top node (last node in the stack).
 
-The Big-O of all this operations is O(1).
+. The Big-O of all this operations is O(1).
 
-The first node.next pointed to Null & last node.next pointed to the previous node.
+. The first node.next pointed to Null & last node.next pointed to the previous node.
+
 
 
 ![](./assets/stack.png)
@@ -52,6 +53,9 @@ The first node.next pointed to Null & last node.next pointed to the previous nod
 . The Big-O of all this operations is O(1).
 
 . The first node (front.next) pointed to the second node & last node (rear.next) pointed to the Null.
+
+
+
 
 
 ![](./assets/queue.png)
