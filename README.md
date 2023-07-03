@@ -13,3 +13,4 @@
 | class08                                      | [RBAC (Role-Based Access Control)](./Class08-RBAC.md)                 |
 | class09                                      | [2 possible project ideas](./Class09.md)                              |
 | class10                                      | [Stack and Queue](./Class10(stack-and-queue).md)                      |
+| class11                                      | [Event Driven Programming](./Class11(Event-Driven-Programming).md)    |
