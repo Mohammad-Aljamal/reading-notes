@@ -14,3 +14,4 @@
 | class09                                      | [2 possible project ideas](./Class09.md)                              |
 | class10                                      | [Stack and Queue](./Class10(stack-and-queue).md)                      |
 | class11                                      | [Event Driven Programming](./Class11(Event-Driven-Programming).md)    |
+| class12                                      | [Socket.io](./Class12(Socket.io).md)                                  |
