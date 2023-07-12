@@ -17,3 +17,4 @@
 | class12                                      | [Socket.io](./Class12(Socket.io).md)                                  |
 | class13                                      | [Message Queues](./Class13(Message-Queues).md)                        |
 | class14                                      | [Event Driven Applications](./Class14(Event-Driven-Applications).md)  |
+| class15                                      | [Tree Data Structures](./Class15(Tree).md)                            |
