@@ -7,10 +7,10 @@
 
 
 
-#### Discuss 2 possible project ideas that could be completed by you and a partner in the alloted time.
+### Discuss 2 possible project ideas that could be completed by you and a partner in the alloted time.
 
-Live Polling Application:
+1- Live Polling Application:
 Create a live polling application that enables users to participate in real-time polls and view results instantaneously.
 
-An electronic exam:
+2- An electronic exam:
 if the passing grade is achieved during the exam. The exam ends once the student achieve the passing mark
