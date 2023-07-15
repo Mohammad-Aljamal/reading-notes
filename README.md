@@ -18,3 +18,4 @@
 | class13                                      | [Message Queues](./Class13(Message-Queues).md)                        |
 | class14                                      | [Event Driven Applications](./Class14(Event-Driven-Applications).md)  |
 | class15                                      | [Tree Data Structures](./Class15(Tree).md)                            |
+| class16                                      | [AWS: Cloud Servers](./Class16(AWS).md)                               |
