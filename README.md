@@ -19,3 +19,4 @@
 | class14                                      | [Event Driven Applications](./Class14(Event-Driven-Applications).md)  |
 | class15                                      | [Tree Data Structures](./Class15(Tree).md)                            |
 | class16                                      | [AWS: Cloud Servers](./Class16(AWS).md)                               |
+| class17                                      | [AWS: S3 and Lambda](./Class17(AWS:S3&Lambda).md)                     |
