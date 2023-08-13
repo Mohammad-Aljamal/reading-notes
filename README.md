@@ -22,3 +22,5 @@
 | class17                                      | [AWS: S3 and Lambda](./Class17(AWS:S3&Lambda).md)                     |
 | class19                                      | [AWS: Events SQS & SNS](./Class19(AWS:Events).md)                     |
 | class18                                      | [AWS: API, Dynamo and Lambda](./Class18(AWS:API).md)                  |
+| ============================================ | ===================================================================== |
+| class26                                      | [React: Component Based UI](./Class26(React:ComponentBasedUI).md)     |
