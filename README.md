@@ -24,3 +24,4 @@
 | class18                                      | [AWS: API, Dynamo and Lambda](./Class18(AWS:API).md)                  |
 | ==========                                   | ========================================================              |
 | class26                                      | [React: Component Based UI](./Class26(React:ComponentBasedUI).md)     |
+| class27                                      | [useState() Hook](./Class27(Hooks).md)                                |
