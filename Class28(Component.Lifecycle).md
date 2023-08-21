@@ -3,8 +3,6 @@
 
 ## Component Lifecycle / useEffect Hook
 
-### [Socket.io Chat Example](https://socket.io/get-started/chat/)
-
 
 
 ## [useEffect hook](https://react.dev/reference/react/useEffect#reference)

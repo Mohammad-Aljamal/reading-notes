@@ -26,3 +26,4 @@
 | class26                                     | [React: Component Based UI](./Class26(React:ComponentBasedUI).md)        |
 | class27                                     | [useState() Hook](./Class27(Hooks).md)                                   |
 | class28                                     | [Component Lifecycle / useEffect Hook](./Class28(Component.Lifecycle).md)|
+| class29                                     | [Advanced State with Reducers](./Class29(Reducers-State).md)             |
