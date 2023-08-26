@@ -28,3 +28,4 @@
 | class28                                     | [Component Lifecycle / useEffect Hook](./Class28(Component.Lifecycle).md)|
 | class29                                     | [Advanced State with Reducers](./Class29(Reducers-State).md)             |
 | class30                                     | [Hash Map](./Class30(HashMap).md)                                        |
+| class31                                     | [Context API](./Class31(Context-API).md)                                 |

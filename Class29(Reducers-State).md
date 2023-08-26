@@ -26,7 +26,7 @@ The useReduce name likely derives from the common list operation called "reduce"
 
 
 
-#### 3. When should you switch from useState to useReducer?
+#### 4. When should you switch from useState to useReducer?
 
 Reducers are not without downsides! Here’s a few ways you can compare them:
 
