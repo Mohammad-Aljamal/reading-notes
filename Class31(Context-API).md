@@ -41,12 +41,12 @@ useReducer can be used to manage complex state in a centralized location, while 
 
 
 
-### Bookmark and Review:
+## Bookmark and Review:
 
 ### Keep these pages handy - they answer questions that show up regularly for this lab:
 
 
-## [Sharing State Between Components ](https://react.dev/learn/sharing-state-between-components)
-## [Preserving and Restting State](https://react.dev/learn/preserving-and-resetting-state)
+### [Sharing State Between Components ](https://react.dev/learn/sharing-state-between-components)
+### [Preserving and Restting State](https://react.dev/learn/preserving-and-resetting-state)
 
 
