@@ -29,3 +29,4 @@
 | class29                                     | [Advanced State with Reducers](./Class29(Reducers-State).md)             |
 | class30                                     | [Hash Map](./Class30(HashMap).md)                                        |
 | class31                                     | [Context API](./Class31(Context-API).md)                                 |
+| class32                                     | [Context API - Behaviors](./Class32(ContextAPI-Behaviors).md)            |
