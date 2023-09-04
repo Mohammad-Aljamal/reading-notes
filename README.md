@@ -30,3 +30,5 @@
 | class30                                     | [Hash Map](./Class30(HashMap).md)                                        |
 | class31                                     | [Context API](./Class31(Context-API).md)                                 |
 | class32                                     | [Context API - Behaviors](./Class32(ContextAPI-Behaviors).md)            |
+| class33                                     | [Login and Auth](./Class33(LoginandAuth).md)                             |
+| class34                                     | [API Integration](./Class34(API-Integration).md)                         |
