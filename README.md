@@ -33,3 +33,4 @@
 | class33                                     | [Login and Auth](./Class33(LoginandAuth).md)                             |
 | class34                                     | [API Integration](./Class34(API-Integration).md)                         |
 | class35                                     | [Graph](./Class35(graph).md)                                             |
+| class36                                     | [Redux](./Class36(Redux).md)                                             |
