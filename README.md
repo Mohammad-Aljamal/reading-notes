@@ -34,3 +34,4 @@
 | class34                                     | [API Integration](./Class34(API-Integration).md)                         |
 | class35                                     | [Graph](./Class35(graph).md)                                             |
 | class36                                     | [Redux](./Class36(Redux).md)                                             |
+| class37                                     | [Redux - Combined Reducers](./Class37(Redux-CombinedReducers).md)        |
